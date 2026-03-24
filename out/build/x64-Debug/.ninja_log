@@ -1,0 +1,9 @@
+# ninja log v5
+3	599	7960171351329718	CMakeFiles/tests.dir/tests/test_matrix.cpp.obj	351b5601497a5461
+7	1094	7960170817984068	CMakeFiles/tests.dir/tests/test_vector_2.cpp.obj	74871c3cc684a250
+2	3862	7960170845433201	CMakeFiles/tests.dir/tests/test_vector_1.cpp.obj	ca79a22f7990b15c
+600	885	7960171353598347	tests.exe	9ba8194651142552
+41	1053	7960240252821839	CMakeFiles/tests.dir/tests/test_matrix.cpp.obj	351b5601497a5461
+37	1088	7960240253289594	CMakeFiles/tests.dir/tests/test_vector_2.cpp.obj	74871c3cc684a250
+30	3381	7960240276047579	CMakeFiles/tests.dir/tests/test_vector_1.cpp.obj	ca79a22f7990b15c
+3382	3788	7960240279618054	tests.exe	9ba8194651142552
